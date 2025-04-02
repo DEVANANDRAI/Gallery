@@ -1,0 +1,9 @@
+.prevBtn,.nextBtn{
+    background-color: #3d3dfd;
+    color: white;
+
+}
+.prevBtn:hover,.nextBtn:hover{
+    background-color: green;
+    color: rgb(25, 2, 116);
+}
